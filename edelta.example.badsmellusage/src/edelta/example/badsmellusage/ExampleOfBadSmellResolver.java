@@ -9,7 +9,7 @@ import edelta.refactorings.lib.EdeltaRefactorings;
 /**
  * Uses the {@link EdeltaBadSmellsResolver} to detect and fix in one shot
  * duplicate features (it uses the {@link EdeltaBadSmellsFinder} and the
- * {@link EdeltaRefactorings}, see the other example
+ * {@link EdeltaRefactorings}, see also the other example
  * {@link ExampleOfBadSmellFinderAndRefactoring}, the result in the "modified"
  * folder will be the same.
  * 

@@ -12,7 +12,9 @@ import edelta.refactorings.lib.EdeltaRefactorings;
 /**
  * Uses the {@link EdeltaBadSmellsFinder} to detect duplicate features and then
  * use the result with the {@link EdeltaRefactorings} to extract duplicate
- * features in superclasses
+ * features in superclasses; see also the other example
+ * {@link ExampleOfBadSmellResolver}, which does everything in one shot, the
+ * result in the "modified" folder will be the same.
  * 
  * @author Lorenzo Bettini
  *
