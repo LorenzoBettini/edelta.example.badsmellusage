@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Edelta Badsmell Usage example
+Bundle-SymbolicName: edelta.example.badsmellusage
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Lorenzo Bettini
+Automatic-Module-Name: edelta.example.badsmellusage
+Bundle-RequiredExecutionEnvironment: JavaSE-11

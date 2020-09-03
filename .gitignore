@@ -1,0 +1,15 @@
+.DS_Store
+*.class
+bin/
+*~
+logs.zip
+*.orig
+*.java._trace
+*.xtendbin
+*.smap
+*.log
+
+# for Maven builds
+target
+
+
