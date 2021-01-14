@@ -41,7 +41,7 @@ public class ExampleOfBadSmellFinderAndRefactoring {
 		// key: one of the duplicate features
 		// value: the list of such duplicate features (including also the key itself)
 		Map<EStructuralFeature, List<EStructuralFeature>> duplicateFeatureMap = badSmellsFinder
-				.findDuplicateFeatures(myecore);
+				.findDuplicatedFeatures(myecore);
 
 		// pass the result to the refactoring
 		EdeltaRefactorings edeltaRefactorings = new EdeltaRefactorings();
